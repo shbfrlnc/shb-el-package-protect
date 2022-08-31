@@ -1,4 +1,4 @@
-# EPKGPRR - Studi Kasus Electron Mempackage dan Memproteksi Aplikasi
+# EPKGPRR - Cara Mempackage dan Memproteksi Aplikasi Electron
 
 ## Cara Mencoba Kode Ini
 
