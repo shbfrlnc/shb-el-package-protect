@@ -1,5 +1,9 @@
 # EPKGPRR - Cara Mempackage dan Memproteksi Aplikasi Electron
 
+## Software Apakah Ini?
+
+EPKGPRR adalah source code yang menunjukkan cara mempackage dan memproteksi aplikasi Electron.
+
 ## Cara Mencoba Kode Ini
 
 Untuk mencoba kode ini, download folder ini.
@@ -141,4 +145,3 @@ HTML, CSS, JSON, dan script yang ada di dalam node_modules dalam artikel ini, ti
 
 Jadi, ketika kode asli dianggap selesai, kita hanya perlu menjalankan perintah compile, kemudian dilanjutkan dengan mem-build installernya.
 
-# 
