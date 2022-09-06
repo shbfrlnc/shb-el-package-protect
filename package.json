@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron .",
     "dev": "electron . --debug",
-    "compile": "node compile.js",
+    "obfuscate": "node obfuscate.js",
     "dist": "electron-builder"
   },
   "keywords": [],
