@@ -1,8 +1,8 @@
-# EPKGPRR - Cara Mempackage dan Memproteksi Aplikasi Electron
+# shb-el-package-protect - Cara Mempackage dan Memproteksi Aplikasi Electron
 
 ## Software Apakah Ini?
 
-EPKGPRR adalah source code yang menunjukkan cara mempackage dan memproteksi aplikasi Electron.
+shb-el-package-protect adalah source code yang menunjukkan cara mempackage dan memproteksi aplikasi Electron.
 
 ## Cara Mencoba Kode Ini
 

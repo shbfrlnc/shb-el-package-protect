@@ -1,5 +1,5 @@
 {
-  "name": "studi-kasus-electron-mempackage-dan-memproteksi-aplikasi",
+  "name": "shb-el-package-protect",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -10,11 +10,9 @@
     "dist": "electron-builder"
   },
   "keywords": [],
-  "author": "SWLRNSHW-200",
-  "license": "ISC",
   "build": {
-    "appId": "com.yourdomain",
-    "productName": "YourProductName",
+    "appId": "com.shbfrlnc.shb-el-package-protect",
+    "productName": "SHBElPackageProtect",
     "publish": null,
     "win": {
       "target": "nsis",
