@@ -1,6 +1,6 @@
 {
   "name": "shb-el-package-protect",
-  "version": "1.0.0",
+  "version": "2022.10.20",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "keywords": [],
   "build": {
     "appId": "com.shbfrlnc.shb-el-package-protect",
-    "productName": "SHBElPackageProtect",
+    "productName": "SHBELPackageProtect",
     "publish": null,
     "win": {
       "target": "nsis",
@@ -20,12 +20,12 @@
     },
     "asar": false,
     "directories": {
-      "output": "./dist"
+      "output": "../_Release/shb-el-package-protect"
     },
     "files": [
       "**/*",
       "!src",
-      "!compile.js"
+      "!obfuscate.js"
     ],
     "extraFiles": [
       "NOTICE"
