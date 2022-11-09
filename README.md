@@ -1,5 +1,9 @@
 # shb-el-package-protect - Cara Mempackage dan Memproteksi Aplikasi Electron
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini?
 
 shb-el-package-protect adalah source code yang menunjukkan cara mempackage dan memproteksi aplikasi Electron.
